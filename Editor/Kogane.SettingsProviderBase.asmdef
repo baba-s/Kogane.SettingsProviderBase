@@ -1,0 +1,18 @@
+﻿{
+    "name": "Kogane.SettingsProviderBase",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d0183f45232f742908b053b7b6bfeafb"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
